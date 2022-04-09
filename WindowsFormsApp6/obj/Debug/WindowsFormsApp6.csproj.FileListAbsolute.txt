@@ -1,0 +1,177 @@
+C:\Users\asps5\Desktop\台南全端\DOTNET\練習版本\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+C:\Users\asps5\Desktop\台南全端\DOTNET\練習版本\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\asps5\Desktop\台南全端\DOTNET\練習版本\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form2.resources
+C:\Users\asps5\Desktop\台南全端\DOTNET\練習版本\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\asps5\Desktop\台南全端\DOTNET\練習版本\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\asps5\Desktop\台南全端\DOTNET\練習版本\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\asps5\Desktop\台南全端\DOTNET\練習版本\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\asps5\Desktop\台南全端\DOTNET\練習版本\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\asps5\Desktop\台南全端\DOTNET\練習版本\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\asps5\Desktop\台南全端\DOTNET\練習版本\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\asps5\Desktop\台南全端\DOTNET\練習版本\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\asps5\Desktop\台南全端\DOTNET\練習版本\WindowsFormsApp6 cold drink\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\asps5\Desktop\台南全端\DOTNET\練習版本\WindowsFormsApp6 cold drink\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\asps5\Desktop\台南全端\DOTNET\練習版本\WindowsFormsApp6 cold drink\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\asps5\Desktop\台南全端\DOTNET\練習版本\WindowsFormsApp6 cold drink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+C:\Users\asps5\Desktop\台南全端\DOTNET\練習版本\WindowsFormsApp6 cold drink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\asps5\Desktop\台南全端\DOTNET\練習版本\WindowsFormsApp6 cold drink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form2.resources
+C:\Users\asps5\Desktop\台南全端\DOTNET\練習版本\WindowsFormsApp6 cold drink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\asps5\Desktop\台南全端\DOTNET\練習版本\WindowsFormsApp6 cold drink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\asps5\Desktop\台南全端\DOTNET\練習版本\WindowsFormsApp6 cold drink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\asps5\Desktop\台南全端\DOTNET\練習版本\WindowsFormsApp6 cold drink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\asps5\Desktop\台南全端\DOTNET\練習版本\WindowsFormsApp6 cold drink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\USER\OneDrive\Project_ColdDrink\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\USER\OneDrive\Project_ColdDrink\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\USER\OneDrive\Project_ColdDrink\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\USER\OneDrive\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\USER\OneDrive\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\USER\OneDrive\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\asps5\OneDrive\Project_ColdDrink\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\asps5\OneDrive\Project_ColdDrink\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\asps5\OneDrive\Project_ColdDrink\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\asps5\OneDrive\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+C:\Users\asps5\OneDrive\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\asps5\OneDrive\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\asps5\OneDrive\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\asps5\OneDrive\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\asps5\OneDrive\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\USER\OneDrive\Project_ColdDrink\WindowsFormsApp6\bin\Debug\CheckBoxComboBox.pdb
+C:\Users\USER\OneDrive\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CopyComplete
+C:\Users\asps5\OneDrive\Project_ColdDrink\WindowsFormsApp6\bin\Debug\CheckBoxComboBox.pdb
+C:\Users\asps5\OneDrive\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CopyComplete
+C:\Users\USER\OneDrive\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form5.resources
+C:\Users\asps5\OneDrive\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form5.resources
+C:\Users\USER\OneDrive\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_Admin.resources
+C:\Users\asps5\OneDrive\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_Admin.resources
+C:\Users\USER\OneDrive\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_User.resources
+C:\Users\USER\OneDrive\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_Login.resources
+C:\Users\USER\OneDrive\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_User購物車.resources
+C:\Users\USER\OneDrive\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_User會員系統.resources
+C:\Users\USER\OneDrive\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_Admin訂單管理.resources
+C:\Users\USER\OneDrive\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_Admin員工管理.resources
+C:\Users\USER\OneDrive\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_Admin商品管理.resources
+C:\Users\USER\OneDrive\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_Admin會員管理.resources
+C:\Users\USER\OneDrive\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_User最愛商品.resources
+C:\Users\USER\OneDrive\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_User訂購紀錄.resources
+C:\Users\asps5\OneDrive\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_User.resources
+C:\Users\asps5\OneDrive\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_User最愛商品.resources
+C:\Users\asps5\OneDrive\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_User訂購紀錄.resources
+C:\Users\asps5\OneDrive\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_User購物車.resources
+C:\Users\asps5\OneDrive\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_Login.resources
+C:\Users\asps5\OneDrive\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_User會員系統.resources
+C:\Users\asps5\OneDrive\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_Admin員工管理.resources
+C:\Users\asps5\OneDrive\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_Admin商品管理.resources
+C:\Users\asps5\OneDrive\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_Admin會員管理.resources
+C:\Users\asps5\OneDrive\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_Admin訂單管理.resources
+C:\Users\USER\Desktop\Project_ColdDrink\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\USER\Desktop\Project_ColdDrink\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\USER\Desktop\Project_ColdDrink\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\USER\Desktop\Project_ColdDrink\WindowsFormsApp6\bin\Debug\CheckBoxComboBox.pdb
+C:\Users\USER\Desktop\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_User.resources
+C:\Users\USER\Desktop\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_User最愛商品.resources
+C:\Users\USER\Desktop\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_User訂購紀錄.resources
+C:\Users\USER\Desktop\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_User購物車.resources
+C:\Users\USER\Desktop\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_Login.resources
+C:\Users\USER\Desktop\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_User會員系統.resources
+C:\Users\USER\Desktop\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form5.resources
+C:\Users\USER\Desktop\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_Admin.resources
+C:\Users\USER\Desktop\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_Admin員工管理.resources
+C:\Users\USER\Desktop\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_Admin商品管理.resources
+C:\Users\USER\Desktop\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_Admin會員管理.resources
+C:\Users\USER\Desktop\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_Admin訂單管理.resources
+C:\Users\USER\Desktop\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\USER\Desktop\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CopyComplete
+C:\Users\USER\Desktop\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\USER\Desktop\Project_ColdDrink\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\USER\Desktop\Project_Midterm123\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\USER\Desktop\Project_Midterm123\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\USER\Desktop\Project_Midterm123\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\USER\Desktop\Project_Midterm123\WindowsFormsApp6\bin\Debug\CheckBoxComboBox.pdb
+C:\Users\USER\Desktop\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_User.resources
+C:\Users\USER\Desktop\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_User最愛商品.resources
+C:\Users\USER\Desktop\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_User訂購紀錄.resources
+C:\Users\USER\Desktop\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_User購物車.resources
+C:\Users\USER\Desktop\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_Login.resources
+C:\Users\USER\Desktop\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_User會員系統.resources
+C:\Users\USER\Desktop\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form5.resources
+C:\Users\USER\Desktop\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_Admin.resources
+C:\Users\USER\Desktop\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_Admin員工管理.resources
+C:\Users\USER\Desktop\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_Admin商品管理.resources
+C:\Users\USER\Desktop\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_Admin會員管理.resources
+C:\Users\USER\Desktop\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_Admin訂單管理.resources
+C:\Users\USER\Desktop\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\USER\Desktop\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CopyComplete
+C:\Users\USER\Desktop\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\USER\Desktop\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\USER\OneDrive\Project_Midterm123\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\USER\OneDrive\Project_Midterm123\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\USER\OneDrive\Project_Midterm123\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\USER\OneDrive\Project_Midterm123\WindowsFormsApp6\bin\Debug\CheckBoxComboBox.pdb
+C:\Users\USER\OneDrive\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_User.resources
+C:\Users\USER\OneDrive\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_User最愛商品.resources
+C:\Users\USER\OneDrive\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_User訂購紀錄.resources
+C:\Users\USER\OneDrive\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_User購物車.resources
+C:\Users\USER\OneDrive\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_Login.resources
+C:\Users\USER\OneDrive\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_User會員系統.resources
+C:\Users\USER\OneDrive\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form5.resources
+C:\Users\USER\OneDrive\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_Admin.resources
+C:\Users\USER\OneDrive\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_Admin員工管理.resources
+C:\Users\USER\OneDrive\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_Admin商品管理.resources
+C:\Users\USER\OneDrive\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_Admin會員管理.resources
+C:\Users\USER\OneDrive\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_Admin訂單管理.resources
+C:\Users\USER\OneDrive\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\USER\OneDrive\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CopyComplete
+C:\Users\USER\OneDrive\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\USER\OneDrive\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\USER\OneDrive\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.FormNo.resources
+E:\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+E:\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_Admin會員管理.resources
+E:\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_User.resources
+E:\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_User最愛商品.resources
+E:\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_User訂購紀錄.resources
+E:\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_User購物車.resources
+E:\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_Login.resources
+E:\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_User會員系統.resources
+E:\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form5.resources
+E:\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_Admin.resources
+E:\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_Admin員工管理.resources
+E:\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_Admin商品管理.resources
+E:\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.FormNo.resources
+E:\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_Admin訂單管理.resources
+E:\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+E:\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+E:\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+E:\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+E:\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+E:\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojAssemblyReference.cache
+E:\期中專題 未整理\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+E:\期中專題 未整理\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_Admin會員管理.resources
+E:\期中專題 未整理\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_User.resources
+E:\期中專題 未整理\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_User最愛商品.resources
+E:\期中專題 未整理\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_User訂購紀錄.resources
+E:\期中專題 未整理\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_User購物車.resources
+E:\期中專題 未整理\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_Login.resources
+E:\期中專題 未整理\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_User會員系統.resources
+E:\期中專題 未整理\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form5.resources
+E:\期中專題 未整理\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_Admin.resources
+E:\期中專題 未整理\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_Admin員工管理.resources
+E:\期中專題 未整理\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_Admin商品管理.resources
+E:\期中專題 未整理\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.FormNo.resources
+E:\期中專題 未整理\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form_Admin訂單管理.resources
+E:\期中專題 未整理\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+E:\期中專題 未整理\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+E:\期中專題 未整理\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+E:\期中專題 未整理\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+E:\期中專題 未整理\Project_Midterm123\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb

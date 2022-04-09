@@ -1,0 +1,397 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B0FC98D6-EC81-4F3A-949C-A8F83F440F60}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp6</RootNamespace>
+    <AssemblyName>WindowsFormsApp6</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CheckBoxComboBox">
+      <HintPath>CheckBoxComboBox\CheckBoxComboBox\bin\Debug\CheckBoxComboBox.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="Form_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Login.Designer.cs">
+      <DependentUpon>Form_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_User會員系統.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_User會員系統.Designer.cs">
+      <DependentUpon>Form_User會員系統.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5.Designer.cs">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_User最愛商品.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_User最愛商品.Designer.cs">
+      <DependentUpon>Form_User最愛商品.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_User訂購紀錄.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_User訂購紀錄.Designer.cs">
+      <DependentUpon>Form_User訂購紀錄.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Admin員工管理.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Admin員工管理.Designer.cs">
+      <DependentUpon>Form_Admin員工管理.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Admin訂單管理.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Admin訂單管理.Designer.cs">
+      <DependentUpon>Form_Admin訂單管理.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Admin商品管理.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Admin商品管理.Designer.cs">
+      <DependentUpon>Form_Admin商品管理.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Admin會員管理.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Admin會員管理.Designer.cs">
+      <DependentUpon>Form_Admin會員管理.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Admin.Designer.cs">
+      <DependentUpon>Form_Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNo.Designer.cs">
+      <DependentUpon>FormNo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GlobalVar.cs" />
+    <Compile Include="Form_User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_User.Designer.cs">
+      <DependentUpon>Form_User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_User購物車.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_User購物車.Designer.cs">
+      <DependentUpon>Form_User購物車.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MyDBDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MyDBDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MyDBDataSet11.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MyDBDataSet11.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MyDBDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MyDBDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MyDBDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MyDBDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MyDBDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MyDBDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MyDBDataSet51.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MyDBDataSet51.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ThemeColor.cs" />
+    <EmbeddedResource Include="Form_Admin會員管理.resx">
+      <DependentUpon>Form_Admin會員管理.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_User.resx">
+      <DependentUpon>Form_User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_User最愛商品.resx">
+      <DependentUpon>Form_User最愛商品.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_User訂購紀錄.resx">
+      <DependentUpon>Form_User訂購紀錄.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_User購物車.resx">
+      <DependentUpon>Form_User購物車.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Login.resx">
+      <DependentUpon>Form_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_User會員系統.resx">
+      <DependentUpon>Form_User會員系統.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form5.resx">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Admin.resx">
+      <DependentUpon>Form_Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Admin員工管理.resx">
+      <DependentUpon>Form_Admin員工管理.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Admin商品管理.resx">
+      <DependentUpon>Form_Admin商品管理.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNo.resx">
+      <DependentUpon>FormNo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Admin訂單管理.resx">
+      <DependentUpon>Form_Admin訂單管理.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="MyDBDataSet1.xsc">
+      <DependentUpon>MyDBDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="MyDBDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MyDBDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MyDBDataSet1.xss">
+      <DependentUpon>MyDBDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="MyDBDataSet11.xsc">
+      <DependentUpon>MyDBDataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="MyDBDataSet11.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MyDBDataSet11.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MyDBDataSet11.xss">
+      <DependentUpon>MyDBDataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="MyDBDataSet2.xsc">
+      <DependentUpon>MyDBDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="MyDBDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MyDBDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MyDBDataSet2.xss">
+      <DependentUpon>MyDBDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="MyDBDataSet3.xsc">
+      <DependentUpon>MyDBDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="MyDBDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MyDBDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MyDBDataSet3.xss">
+      <DependentUpon>MyDBDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="MyDBDataSet4.xsc">
+      <DependentUpon>MyDBDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="MyDBDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MyDBDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MyDBDataSet4.xss">
+      <DependentUpon>MyDBDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="MyDBDataSet51.xsc">
+      <DependentUpon>MyDBDataSet51.xsd</DependentUpon>
+    </None>
+    <None Include="MyDBDataSet51.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MyDBDataSet51.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MyDBDataSet51.xss">
+      <DependentUpon>MyDBDataSet51.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\profile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\log-out.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\henn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wrench.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cart1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\profile1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\log-out1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wishlist.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shopping-cart %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-to-cart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dollar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hen1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\henn1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hen2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image-gallery.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\task.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image %281%292.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paper-plane.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
